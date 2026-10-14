@@ -1,0 +1,6 @@
+{
+  "name": "Miya AI",
+  "description": "Intelligent Jarvis-style Android personal assistant powered by Gemini with voice, tasks, device tools, and secure settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
